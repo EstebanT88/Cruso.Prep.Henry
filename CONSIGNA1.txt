@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones 
+de los siguientes conceptos como si se lo estuvieras explicando a 
+un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier 
+agujero en tu comprensión.
+
+ * Variables
+	Son espacios de almacenamiento para guardar valores llamados "argumentos".
+ * Strings
+	"Hilo de caracteres", son argumentos compuestos por caracteres alfanuméricos.
+ * Funciones (argumentos, `return`)
+	Argumentos son los valores con los que las funciones deben operar.
+	Funciones son bloques de códigos, conjunto de consignas si se quiere, para que se ejecute una tarea.
+	"Return" es un comando que indica la finalización de la lectura de consignas en una función.
+ * Declaraciones `if`
+	Es condicionante que indica el flujo de comandos en un bloque dependiendo del valor de una variante principal.
+ * Valores booleanos (`true`, `false`)
+	"Verdadero" o "falso" son valores condicionantes dados como respuesta posible a una función.
+Nota: Tanto "if" como "true" o "false" hacen que el bloque se lea parcialmente, es decir que solo cierto 
+	fragmento de códigos se ejecuten.
